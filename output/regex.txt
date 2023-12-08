@@ -1,0 +1,7 @@
+This
+text
+file
+vim
+with
+lines
+data

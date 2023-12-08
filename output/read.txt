@@ -1,0 +1,12 @@
+This
+is
+my
+text
+file
+in
+vim
+with
+10
+lines
+of
+data
